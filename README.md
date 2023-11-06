@@ -1,4 +1,7 @@
 # EX 2 Data Manipulation Language (DML) Commands and built in functions in SQL
+
+### DATE: 11/08/2023 
+
 ## AIM:
 To create a manager database and execute DML queries using SQL.
 
@@ -176,3 +179,6 @@ SELECT designation, COUNT(*) AS "Number of Employees" FROM manager GROUP BY desi
 ### OUTPUT:
 
 ![](2.14.png)
+
+### Result:
+Thus the DML queries using SQL to create a manager database has been executed and verified successfully.
